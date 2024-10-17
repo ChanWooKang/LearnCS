@@ -1,0 +1,7 @@
+C:\Users\mwinm\OneDrive\바탕 화면\LearnCS\LearnCS\LearnCS\bin\Debug\LearnCS.exe.config
+C:\Users\mwinm\OneDrive\바탕 화면\LearnCS\LearnCS\LearnCS\bin\Debug\LearnCS.exe
+C:\Users\mwinm\OneDrive\바탕 화면\LearnCS\LearnCS\LearnCS\bin\Debug\LearnCS.pdb
+C:\Users\mwinm\OneDrive\바탕 화면\LearnCS\LearnCS\LearnCS\obj\Debug\LearnCS.csproj.AssemblyReference.cache
+C:\Users\mwinm\OneDrive\바탕 화면\LearnCS\LearnCS\LearnCS\obj\Debug\LearnCS.csproj.CoreCompileInputs.cache
+C:\Users\mwinm\OneDrive\바탕 화면\LearnCS\LearnCS\LearnCS\obj\Debug\LearnCS.exe
+C:\Users\mwinm\OneDrive\바탕 화면\LearnCS\LearnCS\LearnCS\obj\Debug\LearnCS.pdb
