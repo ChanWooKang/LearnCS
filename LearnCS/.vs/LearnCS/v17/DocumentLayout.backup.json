@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mwinm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LearnCS\\LearnCS\\",
+  "WorkspaceRootPath": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\learncs\\learncs\\learncs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBB38\uC11C\\github\\learncs\\learncs\\learncs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|solutionrelative:learncs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\learncs\\learncs\\learncs\\divisiblesumpairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBB38\uC11C\\github\\learncs\\learncs\\learncs\\betweentwosets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|solutionrelative:learncs\\betweentwosets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBB38\uC11C\\github\\learncs\\learncs\\learncs\\subarraydivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|solutionrelative:learncs\\subarraydivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBB38\uC11C\\github\\learncs\\learncs\\learncs\\numberlinejumps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|solutionrelative:learncs\\numberlinejumps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBB38\uC11C\\github\\learncs\\learncs\\learncs\\divisiblesumpairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|solutionrelative:learncs\\divisiblesumpairs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\learncs\\learncs\\learncs\\subarraydivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|solutionrelative:learncs\\subarraydivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|c:\\users\\mwinm\\onedrive\\\uBB38\uC11C\\github\\learncs\\learncs\\learncs\\breakingtherecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD92C6D-DA9C-4905-AA58-E6ED4C238386}|LearnCS\\LearnCS.csproj|solutionrelative:learncs\\breakingtherecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DivisibleSumPairs.cs",
-              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LearnCS\\LearnCS\\LearnCS\\DivisibleSumPairs.cs",
-              "RelativeDocumentMoniker": "LearnCS\\DivisibleSumPairs.cs",
-              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LearnCS\\LearnCS\\LearnCS\\DivisibleSumPairs.cs",
-              "RelativeToolTip": "LearnCS\\DivisibleSumPairs.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA3wCMAAAAhAAAAAAAAAA==",
+              "Title": "BetweenTwoSets.cs",
+              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\BetweenTwoSets.cs",
+              "RelativeDocumentMoniker": "LearnCS\\BetweenTwoSets.cs",
+              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\BetweenTwoSets.cs",
+              "RelativeToolTip": "LearnCS\\BetweenTwoSets.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T18:02:13.115Z",
+              "WhenOpened": "2024-10-17T06:51:15.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SubarrayDivision.cs",
-              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LearnCS\\LearnCS\\LearnCS\\SubarrayDivision.cs",
+              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\SubarrayDivision.cs",
               "RelativeDocumentMoniker": "LearnCS\\SubarrayDivision.cs",
-              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LearnCS\\LearnCS\\LearnCS\\SubarrayDivision.cs",
+              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\SubarrayDivision.cs",
               "RelativeToolTip": "LearnCS\\SubarrayDivision.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowCUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:12:34.202Z",
+              "WhenOpened": "2024-10-17T06:25:31.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberLineJumps.cs",
+              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\NumberLineJumps.cs",
+              "RelativeDocumentMoniker": "LearnCS\\NumberLineJumps.cs",
+              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\NumberLineJumps.cs",
+              "RelativeToolTip": "LearnCS\\NumberLineJumps.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:25:10.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DivisibleSumPairs.cs",
+              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\DivisibleSumPairs.cs",
+              "RelativeDocumentMoniker": "LearnCS\\DivisibleSumPairs.cs",
+              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\DivisibleSumPairs.cs",
+              "RelativeToolTip": "LearnCS\\DivisibleSumPairs.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:25:01.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreakingTheRecords.cs",
+              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\BreakingTheRecords.cs",
+              "RelativeDocumentMoniker": "LearnCS\\BreakingTheRecords.cs",
+              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\BreakingTheRecords.cs",
+              "RelativeToolTip": "LearnCS\\BreakingTheRecords.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:24:34.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LearnCS\\LearnCS\\LearnCS\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\Program.cs",
               "RelativeDocumentMoniker": "LearnCS\\Program.cs",
-              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\LearnCS\\LearnCS\\LearnCS\\Program.cs",
+              "ToolTip": "C:\\Users\\mwinm\\OneDrive\\\uBB38\uC11C\\GitHub\\LearnCS\\LearnCS\\LearnCS\\Program.cs",
               "RelativeToolTip": "LearnCS\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAABCwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T14:01:57.842Z",
               "EditorCaption": ""
